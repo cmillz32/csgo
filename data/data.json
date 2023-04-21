@@ -1,0 +1,1020 @@
+{
+    "30 Mar 16:30 2363315": {
+        "Ancient": {
+            "teams": {
+                "BIG": {
+                    "players": [
+                        {
+                            "player": "Krimbo",
+                            "kd": "14-17",
+                            "adr": "71.5",
+                            "kast": "78.3%",
+                            "rating": "0.93"
+                        },
+                        {
+                            "player": "tabseN",
+                            "kd": "15-18",
+                            "adr": "89.4",
+                            "kast": "56.5%",
+                            "rating": "0.92"
+                        },
+                        {
+                            "player": "k1to",
+                            "kd": "13-17",
+                            "adr": "61.6",
+                            "kast": "65.2%",
+                            "rating": "0.85"
+                        },
+                        {
+                            "player": "hyped",
+                            "kd": "15-20",
+                            "adr": "62.7",
+                            "kast": "69.6%",
+                            "rating": "0.80"
+                        },
+                        {
+                            "player": "faveN",
+                            "kd": "11-18",
+                            "adr": "58.7",
+                            "kast": "52.2%",
+                            "rating": "0.74"
+                        }
+                    ]
+                },
+                "Rare Atom": {
+                    "players": [
+                        {
+                            "player": "Moseyuh",
+                            "kd": "23-14",
+                            "adr": "103.8",
+                            "kast": "91.3%",
+                            "rating": "1.60"
+                        },
+                        {
+                            "player": "Kaze",
+                            "kd": "21-14",
+                            "adr": "93.7",
+                            "kast": "78.3%",
+                            "rating": "1.47"
+                        },
+                        {
+                            "player": "Mercury",
+                            "kd": "18-10",
+                            "adr": "91.0",
+                            "kast": "78.3%",
+                            "rating": "1.42"
+                        },
+                        {
+                            "player": "JamYoung",
+                            "kd": "18-15",
+                            "adr": "82.8",
+                            "kast": "73.9%",
+                            "rating": "1.26"
+                        },
+                        {
+                            "player": "advent",
+                            "kd": "9-15",
+                            "adr": "45.3",
+                            "kast": "52.2%",
+                            "rating": "0.73"
+                        }
+                    ]
+                }
+            },
+            "winner": "Rare Atom",
+            "pick": "Rare Atom"
+        },
+        "Vertigo": {
+            "teams": {
+                "BIG": {
+                    "players": [
+                        {
+                            "player": "Krimbo",
+                            "kd": "22-14",
+                            "adr": "105.5",
+                            "kast": "76.0%",
+                            "rating": "1.57"
+                        },
+                        {
+                            "player": "faveN",
+                            "kd": "21-14",
+                            "adr": "82.5",
+                            "kast": "76.0%",
+                            "rating": "1.28"
+                        },
+                        {
+                            "player": "tabseN",
+                            "kd": "19-19",
+                            "adr": "85.1",
+                            "kast": "72.0%",
+                            "rating": "1.18"
+                        },
+                        {
+                            "player": "hyped",
+                            "kd": "16-14",
+                            "adr": "63.1",
+                            "kast": "60.0%",
+                            "rating": "1.03"
+                        },
+                        {
+                            "player": "k1to",
+                            "kd": "7-19",
+                            "adr": "37.6",
+                            "kast": "64.0%",
+                            "rating": "0.58"
+                        }
+                    ]
+                },
+                "Rare Atom": {
+                    "players": [
+                        {
+                            "player": "Moseyuh",
+                            "kd": "22-17",
+                            "adr": "111.7",
+                            "kast": "80.0%",
+                            "rating": "1.57"
+                        },
+                        {
+                            "player": "JamYoung",
+                            "kd": "17-16",
+                            "adr": "68.5",
+                            "kast": "80.0%",
+                            "rating": "0.95"
+                        },
+                        {
+                            "player": "Kaze",
+                            "kd": "14-14",
+                            "adr": "50.0",
+                            "kast": "72.0%",
+                            "rating": "0.92"
+                        },
+                        {
+                            "player": "Mercury",
+                            "kd": "13-21",
+                            "adr": "66.6",
+                            "kast": "64.0%",
+                            "rating": "0.78"
+                        },
+                        {
+                            "player": "advent",
+                            "kd": "14-17",
+                            "adr": "47.6",
+                            "kast": "72.0%",
+                            "rating": "0.75"
+                        }
+                    ]
+                }
+            },
+            "winner": "BIG",
+            "pick": "BIG"
+        },
+        "Overpass": {
+            "teams": {
+                "BIG": {
+                    "players": [
+                        {
+                            "player": "tabseN",
+                            "kd": "20-8",
+                            "adr": "106.5",
+                            "kast": "88.9%",
+                            "rating": "1.72"
+                        },
+                        {
+                            "player": "k1to",
+                            "kd": "15-8",
+                            "adr": "102.9",
+                            "kast": "94.4%",
+                            "rating": "1.64"
+                        },
+                        {
+                            "player": "hyped",
+                            "kd": "20-11",
+                            "adr": "105.7",
+                            "kast": "94.4%",
+                            "rating": "1.61"
+                        },
+                        {
+                            "player": "Krimbo",
+                            "kd": "16-6",
+                            "adr": "91.7",
+                            "kast": "83.3%",
+                            "rating": "1.55"
+                        },
+                        {
+                            "player": "faveN",
+                            "kd": "13-6",
+                            "adr": "70.7",
+                            "kast": "83.3%",
+                            "rating": "1.20"
+                        }
+                    ]
+                },
+                "Rare Atom": {
+                    "players": [
+                        {
+                            "player": "Moseyuh",
+                            "kd": "12-16",
+                            "adr": "87.2",
+                            "kast": "44.4%",
+                            "rating": "0.92"
+                        },
+                        {
+                            "player": "JamYoung",
+                            "kd": "12-18",
+                            "adr": "76.3",
+                            "kast": "61.1%",
+                            "rating": "0.78"
+                        },
+                        {
+                            "player": "Mercury",
+                            "kd": "6-17",
+                            "adr": "46.6",
+                            "kast": "50.0%",
+                            "rating": "0.48"
+                        },
+                        {
+                            "player": "Kaze",
+                            "kd": "5-16",
+                            "adr": "41.3",
+                            "kast": "44.4%",
+                            "rating": "0.45"
+                        },
+                        {
+                            "player": "advent",
+                            "kd": "4-17",
+                            "adr": "29.1",
+                            "kast": "33.3%",
+                            "rating": "0.21"
+                        }
+                    ]
+                }
+            },
+            "winner": "BIG",
+            "pick": "Rare Atom"
+        }
+    },
+    "30 Mar 23:55 2363318": {
+        "Inferno": {
+            "teams": {
+                "Liquid": {
+                    "players": [
+                        {
+                            "player": "EliGE",
+                            "kd": "23-11",
+                            "adr": "105.4",
+                            "kast": "68.2%",
+                            "rating": "1.72"
+                        },
+                        {
+                            "player": "oSee",
+                            "kd": "17-12",
+                            "adr": "77.5",
+                            "kast": "81.8%",
+                            "rating": "1.24"
+                        },
+                        {
+                            "player": "NAF",
+                            "kd": "16-12",
+                            "adr": "80.5",
+                            "kast": "72.7%",
+                            "rating": "1.24"
+                        },
+                        {
+                            "player": "YEKINDAR",
+                            "kd": "12-15",
+                            "adr": "61.1",
+                            "kast": "77.3%",
+                            "rating": "1.04"
+                        },
+                        {
+                            "player": "nitr0",
+                            "kd": "12-11",
+                            "adr": "59.5",
+                            "kast": "72.7%",
+                            "rating": "0.96"
+                        }
+                    ]
+                },
+                "Nouns": {
+                    "players": [
+                        {
+                            "player": "cynic",
+                            "kd": "22-15",
+                            "adr": "82.2",
+                            "kast": "68.2%",
+                            "rating": "1.27"
+                        },
+                        {
+                            "player": "Bwills",
+                            "kd": "8-16",
+                            "adr": "75.4",
+                            "kast": "68.2%",
+                            "rating": "0.86"
+                        },
+                        {
+                            "player": "MarKE",
+                            "kd": "12-16",
+                            "adr": "69.0",
+                            "kast": "59.1%",
+                            "rating": "0.77"
+                        },
+                        {
+                            "player": "cJ",
+                            "kd": "9-16",
+                            "adr": "43.1",
+                            "kast": "77.3%",
+                            "rating": "0.74"
+                        },
+                        {
+                            "player": "nosraC",
+                            "kd": "9-18",
+                            "adr": "60.8",
+                            "kast": "54.5%",
+                            "rating": "0.61"
+                        }
+                    ]
+                }
+            },
+            "winner": "Liquid",
+            "pick": "Nouns"
+        },
+        "eNuke": {
+            "teams": {
+                "Liquid": {
+                    "players": [
+                        {
+                            "player": "NAF",
+                            "kd": "18-12",
+                            "adr": "88.4",
+                            "kast": "87.5%",
+                            "rating": "1.44"
+                        },
+                        {
+                            "player": "nitr0",
+                            "kd": "25-14",
+                            "adr": "87.9",
+                            "kast": "83.3%",
+                            "rating": "1.42"
+                        },
+                        {
+                            "player": "EliGE",
+                            "kd": "17-13",
+                            "adr": "83.7",
+                            "kast": "87.5%",
+                            "rating": "1.37"
+                        },
+                        {
+                            "player": "oSee",
+                            "kd": "19-12",
+                            "adr": "69.1",
+                            "kast": "95.8%",
+                            "rating": "1.31"
+                        },
+                        {
+                            "player": "YEKINDAR",
+                            "kd": "18-18",
+                            "adr": "91.2",
+                            "kast": "70.8%",
+                            "rating": "1.29"
+                        }
+                    ]
+                },
+                "Nouns": {
+                    "players": [
+                        {
+                            "player": "cynic",
+                            "kd": "19-19",
+                            "adr": "87.0",
+                            "kast": "79.2%",
+                            "rating": "1.04"
+                        },
+                        {
+                            "player": "cJ",
+                            "kd": "13-21",
+                            "adr": "82.2",
+                            "kast": "62.5%",
+                            "rating": "0.90"
+                        },
+                        {
+                            "player": "MarKE",
+                            "kd": "17-17",
+                            "adr": "55.9",
+                            "kast": "45.8%",
+                            "rating": "0.80"
+                        },
+                        {
+                            "player": "Bwills",
+                            "kd": "9-20",
+                            "adr": "57.8",
+                            "kast": "58.3%",
+                            "rating": "0.58"
+                        },
+                        {
+                            "player": "nosraC",
+                            "kd": "11-20",
+                            "adr": "54.5",
+                            "kast": "50.0%",
+                            "rating": "0.57"
+                        }
+                    ]
+                }
+            },
+            "winner": "Liquid",
+            "pick": "Liquid"
+        }
+    },
+    "29 Mar 22:40 2363317": {
+        "Anubis": {
+            "teams": {
+                "paiN": {
+                    "players": [
+                        {
+                            "player": "zevy",
+                            "kd": "31-15",
+                            "adr": "104.6",
+                            "kast": "80.0%",
+                            "rating": "1.70"
+                        },
+                        {
+                            "player": "biguzera",
+                            "kd": "20-15",
+                            "adr": "92.7",
+                            "kast": "88.0%",
+                            "rating": "1.42"
+                        },
+                        {
+                            "player": "hardzao",
+                            "kd": "18-17",
+                            "adr": "79.4",
+                            "kast": "80.0%",
+                            "rating": "1.20"
+                        },
+                        {
+                            "player": "skullz",
+                            "kd": "16-13",
+                            "adr": "65.8",
+                            "kast": "68.0%",
+                            "rating": "1.00"
+                        },
+                        {
+                            "player": "NEKIZ",
+                            "kd": "13-18",
+                            "adr": "68.0",
+                            "kast": "76.0%",
+                            "rating": "0.91"
+                        }
+                    ]
+                },
+                "MIBR": {
+                    "players": [
+                        {
+                            "player": "brnz4n",
+                            "kd": "30-20",
+                            "adr": "134.7",
+                            "kast": "76.0%",
+                            "rating": "1.74"
+                        },
+                        {
+                            "player": "HEN1",
+                            "kd": "16-19",
+                            "adr": "53.6",
+                            "kast": "64.0%",
+                            "rating": "0.80"
+                        },
+                        {
+                            "player": "exit",
+                            "kd": "13-18",
+                            "adr": "47.8",
+                            "kast": "60.0%",
+                            "rating": "0.74"
+                        },
+                        {
+                            "player": "insani",
+                            "kd": "10-21",
+                            "adr": "64.3",
+                            "kast": "56.0%",
+                            "rating": "0.68"
+                        },
+                        {
+                            "player": "Tuurtle",
+                            "kd": "8-20",
+                            "adr": "48.8",
+                            "kast": "52.0%",
+                            "rating": "0.57"
+                        }
+                    ]
+                }
+            },
+            "winner": "paiN",
+            "pick": "MIBR"
+        },
+        "eNuke": {
+            "teams": {
+                "paiN": {
+                    "players": [
+                        {
+                            "player": "skullz",
+                            "kd": "25-30",
+                            "adr": "77.8",
+                            "kast": "72.5%",
+                            "rating": "1.04"
+                        },
+                        {
+                            "player": "biguzera",
+                            "kd": "28-26",
+                            "adr": "68.0",
+                            "kast": "65.0%",
+                            "rating": "1.02"
+                        },
+                        {
+                            "player": "NEKIZ",
+                            "kd": "26-29",
+                            "adr": "77.4",
+                            "kast": "65.0%",
+                            "rating": "1.00"
+                        },
+                        {
+                            "player": "zevy",
+                            "kd": "25-25",
+                            "adr": "58.6",
+                            "kast": "70.0%",
+                            "rating": "0.93"
+                        },
+                        {
+                            "player": "hardzao",
+                            "kd": "22-26",
+                            "adr": "67.8",
+                            "kast": "67.5%",
+                            "rating": "0.90"
+                        }
+                    ]
+                },
+                "MIBR": {
+                    "players": [
+                        {
+                            "player": "exit",
+                            "kd": "32-22",
+                            "adr": "82.2",
+                            "kast": "72.5%",
+                            "rating": "1.21"
+                        },
+                        {
+                            "player": "insani",
+                            "kd": "30-25",
+                            "adr": "77.9",
+                            "kast": "70.0%",
+                            "rating": "1.21"
+                        },
+                        {
+                            "player": "Tuurtle",
+                            "kd": "28-29",
+                            "adr": "85.8",
+                            "kast": "67.5%",
+                            "rating": "1.13"
+                        },
+                        {
+                            "player": "HEN1",
+                            "kd": "26-20",
+                            "adr": "64.9",
+                            "kast": "77.5%",
+                            "rating": "1.07"
+                        },
+                        {
+                            "player": "brnz4n",
+                            "kd": "20-30",
+                            "adr": "63.5",
+                            "kast": "67.5%",
+                            "rating": "0.79"
+                        }
+                    ]
+                }
+            },
+            "winner": "MIBR",
+            "pick": "paiN"
+        },
+        "Vertigo": {
+            "teams": {
+                "paiN": {
+                    "players": [
+                        {
+                            "player": "biguzera",
+                            "kd": "23-16",
+                            "adr": "92.5",
+                            "kast": "88.5%",
+                            "rating": "1.41"
+                        },
+                        {
+                            "player": "zevy",
+                            "kd": "21-14",
+                            "adr": "83.4",
+                            "kast": "73.1%",
+                            "rating": "1.35"
+                        },
+                        {
+                            "player": "skullz",
+                            "kd": "17-17",
+                            "adr": "82.5",
+                            "kast": "76.9%",
+                            "rating": "1.15"
+                        },
+                        {
+                            "player": "hardzao",
+                            "kd": "12-17",
+                            "adr": "58.0",
+                            "kast": "76.9%",
+                            "rating": "0.97"
+                        },
+                        {
+                            "player": "NEKIZ",
+                            "kd": "17-17",
+                            "adr": "62.9",
+                            "kast": "65.4%",
+                            "rating": "0.90"
+                        }
+                    ]
+                },
+                "MIBR": {
+                    "players": [
+                        {
+                            "player": "exit",
+                            "kd": "23-17",
+                            "adr": "106.5",
+                            "kast": "80.8%",
+                            "rating": "1.39"
+                        },
+                        {
+                            "player": "brnz4n",
+                            "kd": "17-19",
+                            "adr": "69.4",
+                            "kast": "76.9%",
+                            "rating": "1.04"
+                        },
+                        {
+                            "player": "insani",
+                            "kd": "18-18",
+                            "adr": "75.6",
+                            "kast": "73.1%",
+                            "rating": "1.03"
+                        },
+                        {
+                            "player": "HEN1",
+                            "kd": "11-15",
+                            "adr": "45.5",
+                            "kast": "73.1%",
+                            "rating": "0.78"
+                        },
+                        {
+                            "player": "Tuurtle",
+                            "kd": "12-22",
+                            "adr": "62.4",
+                            "kast": "69.2%",
+                            "rating": "0.76"
+                        }
+                    ]
+                }
+            },
+            "winner": "paiN",
+            "pick": "MIBR"
+        }
+    },
+    "31 Mar 02:20 2363436": {
+        "Ancient": {
+            "teams": {
+                "Fusc\u00e3o 1500": {
+                    "players": [
+                        {
+                            "player": "Lcm",
+                            "kd": "28-18",
+                            "adr": "86.0",
+                            "kast": "73.3%",
+                            "rating": "1.46"
+                        },
+                        {
+                            "player": "roz",
+                            "kd": "20-19",
+                            "adr": "87.0",
+                            "kast": "80.0%",
+                            "rating": "1.11"
+                        },
+                        {
+                            "player": "DANVIET",
+                            "kd": "21-21",
+                            "adr": "82.0",
+                            "kast": "60.0%",
+                            "rating": "1.07"
+                        },
+                        {
+                            "player": "nolkz",
+                            "kd": "17-19",
+                            "adr": "61.1",
+                            "kast": "70.0%",
+                            "rating": "0.93"
+                        },
+                        {
+                            "player": "gbb",
+                            "kd": "12-16",
+                            "adr": "54.7",
+                            "kast": "63.3%",
+                            "rating": "0.85"
+                        }
+                    ]
+                },
+                "Furious": {
+                    "players": [
+                        {
+                            "player": "KAISER",
+                            "kd": "31-15",
+                            "adr": "102.8",
+                            "kast": "86.7%",
+                            "rating": "1.65"
+                        },
+                        {
+                            "player": "Andrew",
+                            "kd": "19-20",
+                            "adr": "67.3",
+                            "kast": "56.7%",
+                            "rating": "0.93"
+                        },
+                        {
+                            "player": "laser",
+                            "kd": "16-20",
+                            "adr": "55.4",
+                            "kast": "63.3%",
+                            "rating": "0.85"
+                        },
+                        {
+                            "player": "tom1jed",
+                            "kd": "14-24",
+                            "adr": "70.3",
+                            "kast": "66.7%",
+                            "rating": "0.80"
+                        },
+                        {
+                            "player": "ABM",
+                            "kd": "13-20",
+                            "adr": "46.0",
+                            "kast": "60.0%",
+                            "rating": "0.69"
+                        }
+                    ]
+                }
+            },
+            "winner": "Fusc\u00e3o 1500",
+            "pick": "Fusc\u00e3o 1500"
+        },
+        "Mirage": {
+            "teams": {
+                "Fusc\u00e3o 1500": {
+                    "players": [
+                        {
+                            "player": "Lcm",
+                            "kd": "21-8",
+                            "adr": "102.2",
+                            "kast": "90.0%",
+                            "rating": "1.75"
+                        },
+                        {
+                            "player": "gbb",
+                            "kd": "20-11",
+                            "adr": "107.4",
+                            "kast": "85.0%",
+                            "rating": "1.59"
+                        },
+                        {
+                            "player": "roz",
+                            "kd": "19-8",
+                            "adr": "80.7",
+                            "kast": "80.0%",
+                            "rating": "1.41"
+                        },
+                        {
+                            "player": "nolkz",
+                            "kd": "14-9",
+                            "adr": "66.0",
+                            "kast": "95.0%",
+                            "rating": "1.24"
+                        },
+                        {
+                            "player": "DANVIET",
+                            "kd": "15-15",
+                            "adr": "99.6",
+                            "kast": "70.0%",
+                            "rating": "1.19"
+                        }
+                    ]
+                },
+                "Furious": {
+                    "players": [
+                        {
+                            "player": "KAISER",
+                            "kd": "12-17",
+                            "adr": "55.5",
+                            "kast": "60.0%",
+                            "rating": "0.74"
+                        },
+                        {
+                            "player": "Andrew",
+                            "kd": "9-18",
+                            "adr": "65.4",
+                            "kast": "50.0%",
+                            "rating": "0.74"
+                        },
+                        {
+                            "player": "ABM",
+                            "kd": "13-19",
+                            "adr": "75.2",
+                            "kast": "55.0%",
+                            "rating": "0.73"
+                        },
+                        {
+                            "player": "laser",
+                            "kd": "10-15",
+                            "adr": "54.5",
+                            "kast": "55.0%",
+                            "rating": "0.69"
+                        },
+                        {
+                            "player": "tom1jed",
+                            "kd": "7-20",
+                            "adr": "54.6",
+                            "kast": "45.0%",
+                            "rating": "0.40"
+                        }
+                    ]
+                }
+            },
+            "winner": "Fusc\u00e3o 1500",
+            "pick": "Furious"
+        }
+    },
+    "31 Mar 01:30 2363348": {
+        "Overpass": {
+            "teams": {
+                "Detonate SparX": {
+                    "players": [
+                        {
+                            "player": "Andrea",
+                            "kd": "24-15",
+                            "adr": "77.9",
+                            "kast": "82.8%",
+                            "rating": "1.35"
+                        },
+                        {
+                            "player": "Kionetta",
+                            "kd": "22-16",
+                            "adr": "85.2",
+                            "kast": "86.2%",
+                            "rating": "1.29"
+                        },
+                        {
+                            "player": "Chowdzz",
+                            "kd": "20-19",
+                            "adr": "93.9",
+                            "kast": "69.0%",
+                            "rating": "1.27"
+                        },
+                        {
+                            "player": "Bouchard",
+                            "kd": "18-17",
+                            "adr": "73.7",
+                            "kast": "62.1%",
+                            "rating": "1.05"
+                        },
+                        {
+                            "player": "sapphire",
+                            "kd": "12-20",
+                            "adr": "48.8",
+                            "kast": "65.5%",
+                            "rating": "0.70"
+                        }
+                    ]
+                },
+                "EG Gold": {
+                    "players": [
+                        {
+                            "player": "garden",
+                            "kd": "23-19",
+                            "adr": "89.9",
+                            "kast": "65.5%",
+                            "rating": "1.26"
+                        },
+                        {
+                            "player": "7licious",
+                            "kd": "17-18",
+                            "adr": "75.2",
+                            "kast": "69.0%",
+                            "rating": "1.05"
+                        },
+                        {
+                            "player": "m1lky",
+                            "kd": "16-19",
+                            "adr": "70.6",
+                            "kast": "62.1%",
+                            "rating": "0.89"
+                        },
+                        {
+                            "player": "PiggyKiki",
+                            "kd": "17-20",
+                            "adr": "53.1",
+                            "kast": "62.1%",
+                            "rating": "0.84"
+                        },
+                        {
+                            "player": "Jesscas",
+                            "kd": "13-20",
+                            "adr": "51.0",
+                            "kast": "62.1%",
+                            "rating": "0.77"
+                        }
+                    ]
+                }
+            },
+            "winner": "Detonate SparX",
+            "pick": "EG Gold"
+        },
+        "Ancient": {
+            "teams": {
+                "Detonate SparX": {
+                    "players": [
+                        {
+                            "player": "sapphire",
+                            "kd": "23-20",
+                            "adr": "90.6",
+                            "kast": "65.4%",
+                            "rating": "1.26"
+                        },
+                        {
+                            "player": "Bouchard",
+                            "kd": "22-17",
+                            "adr": "87.7",
+                            "kast": "76.9%",
+                            "rating": "1.26"
+                        },
+                        {
+                            "player": "Andrea",
+                            "kd": "20-16",
+                            "adr": "81.7",
+                            "kast": "73.1%",
+                            "rating": "1.24"
+                        },
+                        {
+                            "player": "Chowdzz",
+                            "kd": "18-20",
+                            "adr": "73.1",
+                            "kast": "69.2%",
+                            "rating": "0.95"
+                        },
+                        {
+                            "player": "Kionetta",
+                            "kd": "14-16",
+                            "adr": "59.6",
+                            "kast": "69.2%",
+                            "rating": "0.89"
+                        }
+                    ]
+                },
+                "EG Gold": {
+                    "players": [
+                        {
+                            "player": "PiggyKiki",
+                            "kd": "24-19",
+                            "adr": "96.6",
+                            "kast": "80.8%",
+                            "rating": "1.28"
+                        },
+                        {
+                            "player": "7licious",
+                            "kd": "18-23",
+                            "adr": "88.9",
+                            "kast": "69.2%",
+                            "rating": "1.11"
+                        },
+                        {
+                            "player": "garden",
+                            "kd": "17-18",
+                            "adr": "63.5",
+                            "kast": "76.9%",
+                            "rating": "1.04"
+                        },
+                        {
+                            "player": "m1lky",
+                            "kd": "16-18",
+                            "adr": "76.6",
+                            "kast": "69.2%",
+                            "rating": "0.99"
+                        },
+                        {
+                            "player": "Jesscas",
+                            "kd": "14-21",
+                            "adr": "54.1",
+                            "kast": "53.8%",
+                            "rating": "0.69"
+                        }
+                    ]
+                }
+            },
+            "winner": "Detonate SparX",
+            "pick": "Detonate SparX"
+        }
+    }
+}
